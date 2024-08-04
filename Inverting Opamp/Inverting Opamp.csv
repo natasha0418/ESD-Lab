@@ -1,0 +1,15 @@
+"Source:","C:\Users\tasha\Desktop\ProjectMANAS\Hardware\KiCAD_projects\e-stop_board\Inverting Opamp\Inverting Opamp.kicad_sch"
+"Date:","28-03-2024 12:56:29"
+"Tool:","Eeschema 7.0.2"
+"Generator:","C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","6"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP"
+"1","1","J1","Vin","Connector_Generic:Conn_01x02","","~",""
+"2","1","J2","Conn_01x03","Connector_Generic:Conn_01x03","","~",""
+"3","1","J3","Vout","Connector_Generic:Conn_01x02","","~",""
+"4","1","R1","1k","Device:R","","~",""
+"5","1","R2","10k","Device:R","","~",""
+"6","1","U1","LM741","Amplifier_Operational:LM741","","http://www.ti.com/lit/ds/symlink/lm741.pdf",""
